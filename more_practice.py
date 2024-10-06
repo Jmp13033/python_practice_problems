@@ -8,7 +8,6 @@
 
 
 
-
 # Problem 2 : Print out a list backwards  
 
 # Define a list of numbers
@@ -22,6 +21,9 @@
 
 
 # Problem 3 : Calculate the cube of Calculate the cube of all numbers from 1 to a given number
-# define a number that you want to cub ex: number = 7
+
+# define a number that you want to cube ex: number = 7
+
 # loop through that a range until that number 
+    
     # print out each number cubed  
