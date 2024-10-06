@@ -1,5 +1,4 @@
 
-
 # 1.  print out a range between 1 - 10 
 
 
@@ -34,7 +33,7 @@
 
 
 
-# have vowel in it ?
+#4 have vowel in it ?
 
 # Get input from the user.
 
