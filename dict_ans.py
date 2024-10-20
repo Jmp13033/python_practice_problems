@@ -17,8 +17,6 @@ grades = {
 }
 
 
-
-
 alice_science_grade = grades["Alice"]["Science"]
 print("Alice's Science grade:", alice_science_grade)
 
