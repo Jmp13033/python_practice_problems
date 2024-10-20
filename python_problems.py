@@ -15,6 +15,8 @@
 
 
 
+
+
 # 3 get the sum of all natural numbers
 
 
@@ -28,7 +30,6 @@
 
 
 # Print the final sum.
-
 
 
 
