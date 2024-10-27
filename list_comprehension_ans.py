@@ -31,3 +31,13 @@ capitalized_word = [ word.title() for word in words]
 print(capitalized_word)
 
 # Expected output: ['Hello', 'World', 'Python']
+
+
+words = ["apple", "banana", "Avocado", "cherry", "apricot", "Blueberry"]
+a_words = [a_word for a_word in words if a_word.lower().startswith("a")]
+
+print(a_words)
+# Output: ['apple', 'Avocado', 'apricot']
+
+
+# Expected output: ['apple', 'Avocado', 'apricot']

@@ -22,5 +22,13 @@ words = ["cat", "elephant", "dog", "rat"]
 
 words = ["hello", "world", "python"]
 
-
 # Expected output: ['Hello', 'World', 'Python']
+
+
+
+
+# filter out all of the ones that have a
+
+words = ["apple", "banana", "Avocado", "cherry", "apricot", "Blueberry"]
+
+# Output: ['apple', 'Avocado', 'apricot']
