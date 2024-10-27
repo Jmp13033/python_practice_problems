@@ -25,8 +25,6 @@ grades = {
 }
 
 
-
-
 # Access a Specific Grade: Write code to access Alice's grade in Science.
 # Add a New Subject: Add a new subject "History" with a grade of 89 to Bob's record.
 # Update a Grade: Charlie's English grade has been updated to 90. Modify the dictionary to reflect this
