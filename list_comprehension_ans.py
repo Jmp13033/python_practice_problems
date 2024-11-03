@@ -12,8 +12,6 @@ print(numbers)
 # Expected output: [4, 16, 36]
 
 
-
-
 words = ["cat", "elephant", "dog", "rat"]
 
 long_words = [word for word in words if len(word) > 3]
@@ -37,6 +35,8 @@ words = ["apple", "banana", "Avocado", "cherry", "apricot", "Blueberry"]
 a_words = [a_word for a_word in words if a_word.lower().startswith("a")]
 
 print(a_words)
+
+
 # Output: ['apple', 'Avocado', 'apricot']
 
 
