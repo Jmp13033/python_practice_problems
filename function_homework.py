@@ -23,6 +23,7 @@ import math
 
 
 # CHALLENGE write a function that calculates the average students grades 
+
 students_grades = {
     "Alice": [85, 90, 78],
     "Bob": [80, 82, 84],
